@@ -1,0 +1,134 @@
+1. Jack Nicklaus
+	spesifikasi :     Model = Backpack, Material Polyester
+    		Ukuran (L x W x H cm) = 30 x 20 x 46
+   		 Berat (kg) = 1
+   		 Warna = Merah
+		   Tas Ransel Pria
+  		  Bahan Poliester
+   		 Kompartemen luas
+		harga : Rp 235.000
+
+2.Everlast Ando Backpack
+	spesifikasi :     Material Polyester
+   		Rain Cover
+   		Kompartemen luas
+    		Tutup resleting
+    		2 strap bahu
+		harga : Rp 157.000
+
+3. Warning Clothing Backpack Terreland
+	spesifikasi :     Berbahan Codura
+    			Tas Ransel
+    			Motif Unik
+    			Kompartemen Luas
+   			 Tali Punggung Nyaman
+			harga : Rp  210.000
+
+4. West Ward Works Spruce Crinkled Tas Ransel
+	spesifikasi :     Desain simpel
+   			 Nylon
+ 			   Strap dapat disesuaikan
+			harga : RP 189.000
+
+5. Tas Ransel Laptop Syncase Legacy Biru
+	spesifikasi :     Ukuran Laptop: 34 x 26 x 4
+    			Ukuran Tas: 44 x 33 x 16
+    			Pelindung Hujan: Ada
+    			Harga: Rp 179.500
+
+6.Polo Classic
+	spesifikasi :     Bahan Polyester
+    		Desain Modern, Aksen Logo
+  		  Kompartemen Luas, Kantong Laptop
+    		Tutup Double Ritsleting
+   		 2 Strap Bahu
+		harga : RP 257.500
+
+7.  Tas Ransel FDC 014:
+	spesifikasi :     Ukuran Poduk : Panjang 31 cm, Lebar 14 cm, Tinggi 43 cm
+    			Berat: 1 kg
+ 			   Bahan: CODURA
+			harga : Harga : Rp95,000
+
+8. Tas Ransel OMN 001:
+	spesifikasi :     Ukuran Poduk : Panjang 36 cm, Lebar 20 cm, Tinggi 49 cm
+   			 Berat: 1,5 kg
+ 			   Bahan: D-300
+			Harga : Rp140,000
+
+9. Tas Ransel FUJ 011
+	spesifikasi :     Ukuran Poduk : Panjang 31 cm, Lebar 14 cm, Tinggi 45 cm
+    			Berat: 1 kg
+ 			   Bahan: D-300
+			Harga : Rp115,000
+
+10.Giga Flat
+	spesifikasi : - Berat 900g
+		- Volume 22L
+		- Compartment Laptop 15"
+		- Backsystem tipe Airstripe
+		- Pilihan warna hitam-anthracite dan stone-canvas
+		Harga : Rp 430.000
+
+11.Tas Eiger Base 03
+	spesifikasi : Daypack basic
+			Dimension : 47x32x19cm
+			Fabric : Poly 630D, B.NY 420D ND 8050 Black Al
+			Feature : 2 Compartments, 2 Side pockets, Organizer, Quick acces pocket
+			Harga : Rp.400.000
+
+12. Tas " Island of Stone" Trigger
+	spesifikasi : Merk: Island of Stone
+			Bahan: Kudura
+			Warna: Ungu
+			Rp240.000
+
+13. Tas Sport Adidas Pink Sablon
+	spesifikasi  : Bahan Lotto ( Tahan Air ) / Cordura
+			Logo Sablon High Density / Bordir Computer
+			Tempat Gadget 10
+			Ukuran : (P X L X T) : 50 x 35 x 15 cm
+			Rp 105.000
+
+14. Prosport 6475 - Tas Ransel Pria
+	spesifikasi  :     Ukuran (L x W x H cm) = 30x10x43
+    		        Berat (kg) = 0.46
+   			 Warna = Hitam/Ungu
+			    Tas Ransel Kasual
+   			 Bahan PVC
+  			  Kompartemen yang luas		
+			RP 135.000
+
+15. Tas Punggung SIR 380 
+	spesifikasi : Warna : Abu
+			Size : 30 x 16 x 45
+			Tersedia kompartemen untuk Laptop
+			Rp122.000
+
+16. EmKeKe 098 Pink Tas Ransel Laptop 2in1
+	spesifiakasi :         Product Line = Fashion Laptop Bag
+   			 Model = Fashion Laptop Bag
+ 			   Production country = Hong Kong
+    			Ukuran (L x W x H cm) = 37 x 14 x 38
+    			Berat (kg) = 1
+  			  Warna = Pink
+    			Material Utama = Synthetic – Nylon
+   			 Bahan nylon tebal anti air
+    			Tempat laptop max 14?
+    			Tali panjang untuk gaya slempang
+			harga : RP 225.000
+
+17. Tas Ransel ZRN 0076
+
+		spesifikasi : – Warna : Hitam Komb
+			– Bahan : Cordura
+			– Ukuran : 31x40x17
+			harga : 183.000
+
+18. Tas Pria RST 004
+		spesifikasi : Kode : RST 004
+				Type : Tas Cowok -- 
+				Warna : Abu --
+				 Bahan : Canvas -- 
+				Ukuran : 29x17x46
+				harga : 	Rp. 144.000

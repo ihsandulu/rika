@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Css3Menu>
+    <project version="1.1">
+        <params>
+            <HasChanges>true</HasChanges>
+            <EmbandImg>false</EmbandImg>
+            <Data>var menuStyle={
+	&quot;menu&quot;:{
+		&quot;fontStyle&quot;:[&quot;bold 14px Trebuchet MS&quot;,&quot;bold 14px Trebuchet MS&quot;],
+		&quot;fontColor&quot;:[&quot;#000&quot;,&quot;#333&quot;],
+		&quot;textShadow&quot;:[&quot;#FFF 0 0 1px&quot;,&quot;#FFF 0 0 1px&quot;],
+		&quot;menuBackColor&quot;:&quot;#dedede&quot;,
+		&quot;menuBorderColor&quot;:&quot;#5f5f5f&quot;,
+		&quot;menuBorderWidth&quot;:&quot;1px&quot;,
+		&quot;menuBorderStyle&quot;:&quot;solid&quot;,
+		&quot;menuBorderRadius&quot;:&quot;5px&quot;,
+		&quot;itemBackColor&quot;:[&quot;#222222&quot;,&quot;#61a700&quot;],
+		&quot;itemBackImage&quot;:[&quot;images/mainbk.png&quot;,&quot;images/mainbk.png&quot;],
+		&quot;itemBackPosY&quot;:[&quot;0&quot;,&quot;100px&quot;],
+		&quot;itemBorderWidth&quot;:&quot;0 0 0 1px&quot;,
+		&quot;itemBorderColor&quot;:[&quot;#C0C0C0&quot;,&quot;#C0C0C0&quot;],
+		&quot;itemBorderStyle&quot;:[&quot;solid&quot;,&quot;solid&quot;],
+		&quot;itemPadding&quot;:&quot;10px&quot;,
+		&quot;itemCursor&quot;:&quot;pointer&quot;,
+		&quot;arrowImageSub&quot;:[&quot;images/arrowsub.png&quot;,&quot;images/arrowsub.png&quot;],
+		&quot;arrowWidthSub&quot;:4,
+		&quot;separatorImage&quot;:&quot;images/hsep.png&quot;,
+		&quot;separatorHeight&quot;:&quot;1px&quot;,
+		&quot;separatorVWidth&quot;:&quot;1&quot;,
+		&quot;separatorPadding&quot;:&quot;0px&quot;,
+		&quot;shadowLen&quot;:5
+		},
+	&quot;topmenu&quot;:{
+	},
+	&quot;submenu&quot;:{
+		&quot;itemBackColor&quot;:[&quot;#424542&quot;,&quot;#424542&quot;],
+		&quot;itemBackImage&quot;:[&quot;none&quot;,&quot;none&quot;],
+		&quot;fontStyle&quot;:[&quot;normal 14px Tahoma&quot;,&quot;normal 14px Tahoma&quot;],
+		&quot;fontColor&quot;:[&quot;#FFF&quot;,&quot;#6bd600&quot;],
+		&quot;fontDecoration&quot;:[&quot;none&quot;,&quot;none&quot;],
+		&quot;itemBorderWidth&quot;:&quot;0&quot;,
+		&quot;itemPadding&quot;:&quot;4px&quot;,
+		&quot;textShadow&quot;:[&quot;#FFF 0 0 0&quot;,&quot;#FFF 0 0 0&quot;],
+		&quot;menuBackColor&quot;:&quot;#424542&quot;,
+		&quot;menuBorderRadius&quot;:&quot;6px&quot;,
+		&quot;menuBorderColor&quot;:&quot;#FFF&quot;,
+		&quot;menuBorderWidth&quot;:&quot;2px&quot;,
+		&quot;itemSpacing&quot;:&quot;10&quot;
+		},
+	&quot;topfirst&quot;:{
+		&quot;itemBorderRadius&quot;:&quot;4px 0 0 4px&quot;,
+		&quot;itemBorderWidth&quot;:&quot;0&quot;
+		},
+	&quot;toplast&quot;:{
+		&quot;itemBorderRadius&quot;:&quot;0 4px 4px 0&quot;
+		}
+	};</Data>
+            <isHorizontal>1</isHorizontal>
+            <smMaxRows>0</smMaxRows>
+            <FontFamily>Trebuchet MS</FontFamily>
+            <FontSize>14</FontSize>
+            <Bold>true</Bold>
+            <Italic>false</Italic>
+            <Underline>false</Underline>
+            <OverUnderline>false</OverUnderline>
+            <FontFamily1>Tahoma</FontFamily1>
+            <FontSize1>14</FontSize1>
+            <Bold1>false</Bold1>
+            <Italic1>false</Italic1>
+            <Underline1>false</Underline1>
+            <OverUnderline1>false</OverUnderline1>
+            <TextColor0>#000</TextColor0>
+            <TextColor1>#333</TextColor1>
+            <SubTextColor0>#FFF</SubTextColor0>
+            <SubTextColor1>#6bd600</SubTextColor1>
+            <ItemBackColor0>#222222</ItemBackColor0>
+            <ItemBackColor1>#0055ff</ItemBackColor1>
+            <SubitemBackColor0>#424542</SubitemBackColor0>
+            <SubitemBackColor1>#424542</SubitemBackColor1>
+            <itemBorderRadius0>4</itemBorderRadius0>
+            <itemBorderRadius1>0</itemBorderRadius1>
+            <menuBorderRadius0>5</menuBorderRadius0>
+            <menuBorderRadius1>6</menuBorderRadius1>
+            <itemAlign>left</itemAlign>
+            <itemAlignTop>center</itemAlignTop>
+            <smOpacity>100</smOpacity>
+            <menuWidth>552</menuWidth>
+            <menuHeight>40</menuHeight>
+            <autoSize>true</autoSize>
+            <width100>false</width100>
+            <responsive>true</responsive>
+            <topCrossover>false</topCrossover>
+            <subCrossover>false</subCrossover>
+            <effect>0</effect>
+            <rtl>false</rtl>
+            <index>1</index>
+        </params>
+        <items>
+            <item>
+                <text>Beranda</text>
+                <link></link>
+                <hint></hint>
+                <target></target>
+                <pressed>0</pressed>
+            </item>
+            <item>
+                <text>Admin</text>
+                <link></link>
+                <hint></hint>
+                <target></target>
+                <pressed>0</pressed>
+            </item>
+            <item>
+                <text>Produk</text>
+                <link></link>
+                <hint></hint>
+                <target></target>
+                <pressed>0</pressed>
+            </item>
+            <item>
+                <text>member</text>
+                <link></link>
+                <hint></hint>
+                <target></target>
+                <pressed>0</pressed>
+            </item>
+            <item>
+                <text>testimonial</text>
+                <link></link>
+                <hint></hint>
+                <target></target>
+                <pressed>0</pressed>
+            </item>
+            <item>
+                <text>pesan</text>
+                <link></link>
+                <hint></hint>
+                <target></target>
+                <pressed>0</pressed>
+            </item>
+            <item>
+                <text>Order </text>
+                <link></link>
+                <hint></hint>
+                <target></target>
+                <pressed>0</pressed>
+            </item>
+            <item>
+                <text>Keluar</text>
+                <link></link>
+                <hint></hint>
+                <target></target>
+                <pressed>0</pressed>
+            </item>
+        </items>
+        <media>
+            <img src=""></img>
+            <img src="arrowsub.png">iVBORw0KGgoAAAANSUhEUgAAA+gAAAAFCAYAAADWkcYlAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wBFwsaEPhJNTwAAABfSURBVHja7dqxDQAxDAMxOfvv7G9iIAt80pAjqDtA1d3ZOkmqqgIAAAD8qneQT4evM86TiHMAAAC4YMJ8Qn2JcwAAAHgf6esI8zYNAAAA3HPe3OfiLtIBAADgUZwnyQeivhwKKt7BhQAAAABJRU5ErkJggg==</img>
+            <img src="hsep.png">iVBORw0KGgoAAAANSUhEUgAAAL4AAAABCAIAAADvioNqAAAAa0lEQVR42nVPQQ7AIAgrF/9msv//xRNL0EFBVhJsgaLKfOZaS0Rg2KRkAYXLTDa8cCRI3O1izJV+HF37jyAsJbek8BaqGtwiEet6VlCQPNSODa8fCRLfRLjIeK9qN4TMt7O3Pvb6Dn9/jPEC0Jix4HcuSB4AAAAASUVORK5CYII=</img>
+            <img src="mainbk.png">iVBORw0KGgoAAAANSUhEUgAAAAEAAADICAYAAAAp8ov1AAAAAXNSR0IArs4c6QAAAAZiS0dEAAAAAAAA+UO7fwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9oJGA41KpTYroIAAACASURBVCjP7ZE7DsJADESfJiL37znNXoJLUNARa7Ni6Bw5AtFEqXAx8vj/wfZNwBBAakPAWukQEJUu1RGVLt9su4yo9eJ3t0FrDWyTg58HezlujFPE9lXAQ8BdQM93R9LtM2ve/vnB22tcF/DaTpItJwHKVWcBk4BLwlw1/nAUvAGm30u0udPq+QAAAABJRU5ErkJggg==</img>
+        </media>
+    </project>
+</Css3Menu>

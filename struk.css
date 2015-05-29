@@ -1,0 +1,21 @@
+body{
+	margin:0;
+	padding:0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	background:#E9EAED;
+	color: #000;
+	}
+.struk{
+	border:2px solid #000;
+	border-collapse:collapse;
+	margin:2% auto;
+	font-weight:bold;
+	background:#fff;
+	}
+.struk tr, .struk td{
+	border:1px solid #999999;
+	}
+.struk tr, .struk td#jorok{
+	 position:relative; left:20px;
+	}

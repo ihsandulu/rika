@@ -1,0 +1,78 @@
+
+#judul {
+    color: #609;
+    font-size: 30px;
+    
+    margin-left: 20px;
+}
+
+#subjudul {
+    color: #000;
+    font-size: 16px;
+    
+    margin-left: 20px;
+}
+body{
+/*background-color:#E2A9F3;*/
+font-family:Georgia, "Times New Roman", Times, serif;
+font-size:14px;
+}
+
+#main_wrapper{
+	width: 90%;
+	height:auto;
+	margin: 44px auto 30px;
+	background: #FFF;
+	border-radius: 15px;
+	-webkit-border-radius: 8px;
+	-noz-border-radius: 8px;
+	box-shadow:#D358F7 1px 1px 5px;
+}
+
+#main_header{
+	width: 910px;
+	padding: 20px
+	
+}
+
+#main_menu{
+	width: 950px;
+	height: 50px;	
+	background: #0C0;
+	box-shadow: 0px 5px 15px #080808;
+}
+
+#page{
+	float: left;
+	padding: 15px 20px;
+	font-size: 18px;
+	color: #FFF;
+	font-family: arial;
+}
+
+#page:hover{
+	color:#000;
+}
+
+#down_menu{
+	width: 980px;
+	height: 20px;
+}
+
+#main_content{
+	float: left;
+	width: 700px;
+	padding: 15px;
+}
+
+#main_aside{
+	float: left;
+	width: 200px;
+	margin-left: 20px;
+}
+
+#main_footer{
+	clear: both;
+	width: 950px;
+	heigt: 50px;
+}
